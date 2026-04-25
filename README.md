@@ -98,6 +98,3 @@ While pre-trained models are industry standard for rapid deployment, implementin
 2. Run the application:
    python main.py --help
 
-## License
-
-This project is licensed under the MIT License.
